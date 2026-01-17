@@ -10,6 +10,7 @@ double getUserInput()
     return input;
 }
 
+// Returns the gratuity USD amount.
 double getGratuity(double subtotal,double gratuityRate)
 {
     double gratuity{};
@@ -17,6 +18,7 @@ double getGratuity(double subtotal,double gratuityRate)
     return gratuity;
 }
 
+// Returns the total USD amount with gratuity included.
 double getTotal(double subtotal, double gratuity)
 {
     double total{};
@@ -24,6 +26,7 @@ double getTotal(double subtotal, double gratuity)
     return total;
 }
 
+// Reads the subtotal and the gratuity rate, then computes the gratuity and total.
 int main()
 {
     std::cout << "Enter the subtotal and a gratuity rate: ";
