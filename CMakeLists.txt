@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 4.1)
+project(introduction_to_programming_with_cpp)
+
+set(CMAKE_CXX_STANDARD 20)
+
+# --- ENFORCE STRICT WARNINGS ---
+add_compile_options(-Wall -Wextra -Werror)
+
+# --- CHAPTER XX ---
+# Syntax: add_executable(NAME_OF_RUN_CONFIG PATH_TO_FILE
+
+# --- CHAPTER 1 ---
+# Skipped
+
+# --- CHAPTER 2 ---
+add_executable(ch02-ex01 chapter-2-elementary-programming/ex01.cpp)
+
+# --- CHAPTER 3 ---
+
+
+# --- CHAPTER 4 ---
+
+
+# --- CHAPTER 5 ---
+
+
+# --- CHAPTER 6 ---
+
+
