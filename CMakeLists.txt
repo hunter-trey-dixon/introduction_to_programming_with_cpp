@@ -14,6 +14,7 @@ add_compile_options(-Wall -Wextra -Werror)
 
 # --- CHAPTER 2 ---
 add_executable(ch02-ex01 chapter-2-elementary-programming/ex01.cpp)
+add_executable(ch02-ex02 chapter-2-elementary-programming/ex02.cpp)
 
 # --- CHAPTER 3 ---
 
