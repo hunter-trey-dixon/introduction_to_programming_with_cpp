@@ -34,4 +34,5 @@ int main()
     int sumOfDigits{ getSumOfDigits(num) };
 
     std::cout << "The sum of the digits is " << sumOfDigits << std::endl;
+    return 0;
 }
