@@ -30,7 +30,7 @@ add_executable(ch02-ex17 chapter-2-elementary-programming/ex17.cpp)
 add_executable(ch02-ex19 chapter-2-elementary-programming/ex19.cpp)
 add_executable(ch02-ex20 chapter-2-elementary-programming/ex20.cpp)
 add_executable(ch02-ex21 chapter-2-elementary-programming/ex21.cpp)
-
+add_executable(ch02-ex22 chapter-2-elementary-programming/ex22.cpp)
 # --- CHAPTER 3 ---
 
 
