@@ -33,7 +33,7 @@ int main()
     double futureInvestmentValue{ getInvestment(initialInvestment, annualInterestRate, numYears)};
 
     //Display the results
-    cout << "Accumulated value is $" << static_cast<int>(futureInvestmentValue * 100) / 100.0 << endl;
+    cout << "Accumulated value is $" << static_cast<int>(futureInvestmentValue * 100) / 100.00 << endl;
 
     return 0;
 }
