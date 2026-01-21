@@ -35,6 +35,7 @@ add_executable(ch02-ex23 chapter-2-elementary-programming/ex23.cpp)
 
 # --- CHAPTER 3 ---
 add_executable(ch03-ex01 chapter-3-selections/ex01.cpp)
+add_executable(ch03-ex03 chapter-3-selections/ex03.cpp)
 
 
 # --- CHAPTER 4 ---
