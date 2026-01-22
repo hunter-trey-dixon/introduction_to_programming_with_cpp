@@ -38,7 +38,7 @@ add_executable(ch03-ex01 chapter-3-selections/ex01.cpp)
 add_executable(ch03-ex03 chapter-3-selections/ex03.cpp)
 add_executable(ch03-ex04 chapter-3-selections/ex04.cpp)
 add_executable(ch03-ex05 chapter-3-selections/ex05.cpp)
-
+add_executable(ch03-ex06 chapter-3-selections/ex06.cpp)
 
 # --- CHAPTER 4 ---
 
