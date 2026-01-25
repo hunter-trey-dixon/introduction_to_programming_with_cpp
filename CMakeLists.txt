@@ -44,6 +44,8 @@ add_executable(ch03-ex08 chapter-3-selections/ex08.cpp)
 add_executable(ch03-ex09 chapter-3-selections/ex09.cpp)
 add_executable(ch03-ex11 chapter-3-selections/ex11.cpp)
 add_executable(ch03-ex14 chapter-3-selections/ex14.cpp)
+add_executable(ch03-ex15 chapter-3-selections/ex15.cpp)
+
 
 # --- CHAPTER 4 ---
 
