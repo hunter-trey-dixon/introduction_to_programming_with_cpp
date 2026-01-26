@@ -52,7 +52,7 @@ int main()
     double C2 = acos((c2 * c2 - b2 * b2 - a2 * a2) / (-2 * a2 * b2));
 
     // Display the angles of the first triangle in degrees
-    cout << "The three angles of the first triangle are "
+    cout << "The three angles of the second triangle are "
         << A2 * 180 / PI << " "
         << B2 * 180 / PI << " "
         << C2 * 180 / PI << endl;
