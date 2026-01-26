@@ -59,6 +59,7 @@ add_executable(ch04-ex11 chapter-4-mathematical-functions-characters-and-strings
 add_executable(ch04-ex12 chapter-4-mathematical-functions-characters-and-strings/ex12.cpp)
 add_executable(ch04-ex14 chapter-4-mathematical-functions-characters-and-strings/ex14.cpp)
 add_executable(ch04-ex15 chapter-4-mathematical-functions-characters-and-strings/ex15.cpp)
+add_executable(ch04-ex18 chapter-4-mathematical-functions-characters-and-strings/ex18.cpp)
 
 
 # --- CHAPTER 5 ---
