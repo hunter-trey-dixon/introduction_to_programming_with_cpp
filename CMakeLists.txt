@@ -52,6 +52,7 @@ add_executable(ch03-ex17 chapter-3-selections/ex17.cpp)
 add_executable(ch04-ex02 chapter-4-mathematical-functions-characters-and-strings/ex02.cpp)
 add_executable(ch04-ex03 chapter-4-mathematical-functions-characters-and-strings/ex03.cpp)
 add_executable(ch04-ex05 chapter-4-mathematical-functions-characters-and-strings/ex05.cpp)
+add_executable(ch04-ex08 chapter-4-mathematical-functions-characters-and-strings/ex08.cpp)
 
 
 # --- CHAPTER 5 ---
