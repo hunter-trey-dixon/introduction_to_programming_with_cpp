@@ -67,6 +67,7 @@ add_executable(ch04-ex21 chapter-4-mathematical-functions-characters-and-strings
 # --- CHAPTER 5 ---
 add_executable(ch05-ex01 chapter-5-loops/ex01.cpp)
 add_executable(ch05-ex09 chapter-5-loops/ex09.cpp)
+add_executable(ch05-ex11 chapter-5-loops/ex11.cpp)
 
 
 # --- CHAPTER 6 ---
