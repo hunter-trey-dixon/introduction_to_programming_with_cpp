@@ -72,6 +72,7 @@ add_executable(ch05-ex16 chapter-5-loops/ex16.cpp)
 add_executable(ch05-ex17 chapter-5-loops/ex17.cpp)
 add_executable(ch05-ex18 chapter-5-loops/ex18.cpp)
 add_executable(ch05-ex20a chapter-5-loops/ex20a.cpp)
+add_executable(ch05-ex20b chapter-5-loops/ex20b.cpp)
 
 # --- CHAPTER 6 ---
 
